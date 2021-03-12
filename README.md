@@ -1,9 +1,18 @@
-#Matheus Marques
-🌱 I’m currently learning
+### Hey, I'm Matheus Marques! 👋
+
+
+🇧🇷 Born in Brazil <br>
+
+### I’m currently learning 🌱
 React js
 Node js
 Data base
-📫 How to reach me
+### Find me elsewhere 🌎
+
+
+📸 [Instagram](https://instagram.com/lucasmontano) <br>
+💼 [LinkedIn] (https://linkedin/in/matheusm97)
+
 <!--
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
