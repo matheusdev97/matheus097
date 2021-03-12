@@ -1,5 +1,9 @@
 #Matheus Marques
-
+🌱 I’m currently learning
+React js
+Node js
+Data base
+📫 How to reach me
 <!--
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
