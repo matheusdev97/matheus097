@@ -9,9 +9,8 @@ Node js
 Data base
 ### Find me elsewhere 🌎
 
-
-📸 [Instagram](https://instagram.com/lucasmontano) <br>
-💼 [LinkedIn] (https://linkedin/in/matheusm97)
+📸 [Instagram](https://instagram.com/) <br>
+💼 [LinkedIn] (https://linkedin/in/matheusm97/)
 
 <!--
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
