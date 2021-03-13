@@ -1,12 +1,13 @@
 ### Hey, I'm Matheus Marques! 👋
 
 
-🇧🇷 Born in Brazil <br>
+ BR Born in Brazil <br>
 
 ### I’m currently learning 🌱
-React js
-Node js
-Data base
+<p>-React js</p>
+<p>-Node js</p>
+<p>-Data base</p>
+
 ### Find me elsewhere 🌎
 
 📸 [Instagram](https://instagram.com/) <br>
