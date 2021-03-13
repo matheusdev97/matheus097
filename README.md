@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus Marques! 👋
 
 
- BR Born in Brazil <br>
+Born in Brazil <br>
 
 ### I’m currently learning 🌱
 <p>-React js</p>
