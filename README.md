@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus Marques! 👋
 
 
- **A enthusiast fullstack**
+ **A enthusiast of fullstack**
 
 <br>
 
