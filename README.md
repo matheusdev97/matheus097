@@ -1,7 +1,9 @@
 ### Hey, I'm Matheus Marques! 👋
 
 
- I'm a student fullstack<br>
+ **A student fullstack**
+
+<br>
 
 <!----
 ### I’m currently learning 🌱
