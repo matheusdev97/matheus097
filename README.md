@@ -3,11 +3,12 @@
 
  I'm a student fullstack<br>
 
+<!----
 ### I’m currently learning 🌱
 <p>-React js</p>
 <p>-Node js</p>
 <p>-Data base</p>
-<!--
+
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
