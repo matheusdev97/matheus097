@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus Marques! 👋
 
 
- I'm a student fullstack and have some knowledge in front-end<br>
+ I'm a student fullstack<br>
 
 ### I’m currently learning 🌱
 <p>-React js</p>
