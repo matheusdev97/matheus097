@@ -2,7 +2,7 @@
 
 <h3>📫 How to reach me:</h3>
 
-Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/)
+Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Message%20Me!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/)
 
 Mail [![Gmail Badge](https://img.shields.io/badge/-Contact%20Me!-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmdev97@gmail.com)](mailto:matheusmdev97@gmail.com)
 
