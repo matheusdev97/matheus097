@@ -1,4 +1,4 @@
-<h2>Hey, I'm Matheus Marques!👋🏻🇧🇷</h2>
+<h2>Hey!👋🏻🇧🇷 OPEN TO WORK</h2>
 
 <h3>📫 How to reach me:</h3>
 
