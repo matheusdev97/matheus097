@@ -31,7 +31,8 @@ const languages = [
   ];
   
 const technologies = {
- JavaScript/Typescript:["React.js","Next.js"];
+ JavaScript/Typescript:["React.js",
+ "Next.js"];
  APIs:           ["REST"];
  Node:           ["Express"];
  Design:         ["Bootstrap"];
