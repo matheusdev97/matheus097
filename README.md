@@ -1,8 +1,10 @@
 ### Hey, I'm Matheus Marques! 👋
 
 ### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/)
-[![Gmail Badge](https://img.shields.io/badge/-Contact%20Me!-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmdev97@gmail.com)](mailto:matheusmdev97@gmail.com)
+
+### Linkedin [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/)
+
+### Mail [![Gmail Badge](https://img.shields.io/badge/-Contact%20Me!-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmdev97@gmail.com)](mailto:matheusmdev97@gmail.com)
 
 ### I’m currently learning 🌱
 <p>Reactjs/Nextjs</p>
