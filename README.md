@@ -10,7 +10,9 @@
 <p>-Data base</p>
 
 ### 📫 How to reach me:
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusm97/)](https://www.linkedin.com/in/matheusm97/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusmdev97@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmdev97@gmail.com)](mailto:matheusmdev97@gmail.com)
+
 <!----
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
