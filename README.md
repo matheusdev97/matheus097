@@ -14,9 +14,9 @@ Mail [![Gmail Badge](https://img.shields.io/badge/-Contact%20Me!-red?style=flat-
 <h2>🌀 A little more about me:</h2>
 
 
-import Human from 'planet'
+import Matheus from 'earth'
   ```typescript
-export default class Matheus extends Human {
+export default class Human extends Matheus{
   name: string;
   nationality: string;
   
