@@ -11,6 +11,33 @@ Mail [![Gmail Badge](https://img.shields.io/badge/-Contact%20Me!-red?style=flat-
 <p>Nodejs</p>
 <p>DB</p>
 
+<h2>🌀 A little more about me:</h2>
+
+  ```typescript
+class Matheus extends Human {
+  name: string;
+  nationality: string;
+  
+  constructor() {
+    super();
+    this.name = "Matheus Marques";
+    this.nationality = "Brazilian";
+  }
+  
+  languages: Array<string> = [
+    "Portuguese",
+    "English",
+  ];
+  
+technologies: {
+ JavaScript/Typescript:["React.js","Next.js"];
+ APIs:           ["REST"];
+ Node:           ["Express"];
+ Design:         ["Bootstrap"];
+ CloudComputing: ["Firebase"];
+  };
+}
+```
 
 
 <!----
