@@ -38,7 +38,8 @@ technologies: {
   };
 }
 ```
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus097&layout=compact)](https://github.com/matheus097/github-readme-stats)
+<!---[![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matheusdev)](https://github.com/matheus097/github-readme-stats)-->
 
 <!----
 **matheus097/matheus097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
