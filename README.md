@@ -19,17 +19,16 @@ class Matheus extends Human {
   nationality: string;
   
   constructor() {
-    super();
     this.name = "Matheus Marques";
     this.nationality = "Brazilian";
   }
   
-  languages: Array<string> = [
+const languages = [
     "Portuguese",
     "English",
   ];
   
-technologies: {
+const technologies = {
  JavaScript/Typescript:["React.js","Next.js"];
  APIs:           ["REST"];
  Node:           ["Express"];
