@@ -27,7 +27,7 @@ class Matheus extends Human{
     this.nationality = "Brazilian";
   }
   
- languages:Array<string> = [
+ languages:string[] = [
     "Brazilian Portuguese",
     "English",
   ];
