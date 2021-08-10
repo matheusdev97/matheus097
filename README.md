@@ -27,14 +27,13 @@ class Matheus extends Human{
     this.nationality = "Brazilian";
   }
   
-const languages = [
+ languages:Array<string> = [
     "Brazilian Portuguese",
     "English",
   ];
   
-const technologies = {
- JavaScript & Typescript:["React.js",
- "Next.js"];
+ technologies: {
+ JavaScript & Typescript:["React.js","Next.js"];
  APIs:           ["REST"];
  Node:           ["Express"];
  Design:         ["Bootstrap"];
