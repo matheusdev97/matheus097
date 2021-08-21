@@ -11,10 +11,10 @@
 <p>Nodejs</p>
 <p>DB</p>
 
-<h2>🌀 A little more about me:</h2>
+<!---<h2>🌀 A little more about me:</h2>
 
 
-import Human from 'earth';
+Human from 'earth';
 
   ```typescript
 class Matheus extends Human{
@@ -40,7 +40,7 @@ class Matheus extends Human{
  CloudComputing: ["Firebase"];
   };
 }
-```
+```--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus097&layout=compact)](https://github.com/matheus097/github-readme-stats)
 <!---[![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matheusdev)](https://github.com/matheus097/github-readme-stats)-->
 
